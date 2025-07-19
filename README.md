@@ -1,4 +1,4 @@
-# 🎯 Object Detection and Tracking (YOLOv8 + Deep SORT)
+# 🎯 Object Detection and Tracking (YOLOv8 + Deep SORT) 
 
 This project is a real-time object detection and tracking system built using the Ultralytics YOLOv8 models and Deep SORT tracking. It includes a clean and interactive Streamlit interface with webcam, video, and image input support.
 
