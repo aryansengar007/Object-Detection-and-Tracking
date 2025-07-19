@@ -82,7 +82,14 @@ venv\Scripts\activate
 ```
 ---
 
-4. **Run the app**
+5. **Install necessary libraries**
+```bash
+
+pip install ultralytics opencv-python deep_sort_realtime streamlit
+```
+---
+
+6. **Run the app**
 ```bash
 
 streamlit run main.py
