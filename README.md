@@ -50,10 +50,10 @@ This project is a real-time object detection and tracking system built using the
 ```
 Object-Detection-and-Tracking/
 │
+├──venv/
 ├── main.py                  # Streamlit GUI logic
 ├── detect_and_track.py      # Core detection/tracking logic
 ├── utils.py                 # Model descriptions and class list
-├── yolov8n.pt               # (Add model weights manually or download via Ultralytics)
 ```
 
 ---
