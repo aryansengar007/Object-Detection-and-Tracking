@@ -97,6 +97,31 @@ streamlit run main.py
 
 ---
 
+## 🖥️ Demo Screenshots
+ 
+ # Dashboard 
+ [![Dashboard Screenshot](assets/dashboard_1.png)](assets/dashboard_1.png)
+ [![Dashboard Screenshot](assets/dashboard_2.png)](assets/dashboard_2.png)
+ [![Dashboard Screenshot](assets/dashboard_3.png)](assets/dashboard_3.png)
+ [![Dashboard Screenshot](assets/dashboard_4.png)](assets/dashboard_4.png)
+ [![Dashboard Screenshot](assets/dashboard_5.png)](assets/dashboard_5.png)
+
+ # Result
+ [![Result Screenshot](assets/prediction_result_1.png)](assets/prediction_result_1.png)
+ [![Result Screenshot](assets/prediction_result_2_2.1.png)](assets/prediction_result_2_2.1.png)
+ [![Result Screenshot](assets/prediction_result_2_2.2.png)](assets/prediction_result_2_2.2.png)
+ [![Result Screenshot](assets/prediction_result_2_2.3.png)](assets/prediction_result_2_2.3.png)
+ [![Result Screenshot](assets/prediction_result_3_3.1.png)](assets/prediction_result_3_3.1.png)
+ [![Result Screenshot](assets/prediction_result_3_3.2.png)](assets/prediction_result_3_3.2.png)
+ [![Result Screenshot](assets/prediction_result_3_3.3.png)](assets/prediction_result_3_3.3.png)
+
+ # Generated File and Video
+ [![Fie Screenshot](assets/file_preview_1.png)](assets/file_preview_1.png)
+ [![Fie Screenshot](assets/file_preview_2.png)](assets/file_preview_2.png)
+ [![Fie Screenshot](assets/file_preview_3.png)](assets/file_preview_3.png)
+ 
+---
+
 ## 🙋‍♂️ Developed By
 
 **Aryan Sengar**  
