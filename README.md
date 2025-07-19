@@ -107,7 +107,7 @@ streamlit run main.py
  [![Dashboard Screenshot](assets/dashboard_5.png)](assets/dashboard_5.png)
 
  # Result
- [![Result Screenshot](assets/prediction_result_1.png)](assets/prediction_result_1.png)
+ [![Result Screenshot](assets/prediction_result_1.jpg)](assets/prediction_result_1.jpg)
  [![Result Screenshot](assets/prediction_result_2_2.1.png)](assets/prediction_result_2_2.1.png)
  [![Result Screenshot](assets/prediction_result_2_2.2.png)](assets/prediction_result_2_2.2.png)
  [![Result Screenshot](assets/prediction_result_2_2.3.png)](assets/prediction_result_2_2.3.png)
@@ -117,7 +117,9 @@ streamlit run main.py
 
  # Generated File and Video
  [![Fie Screenshot](assets/file_preview_1.png)](assets/file_preview_1.png)
+ 
  [![Fie Screenshot](assets/file_preview_2.png)](assets/file_preview_2.png)
+ 
  [![Fie Screenshot](assets/file_preview_3.png)](assets/file_preview_3.png)
  
 ---
